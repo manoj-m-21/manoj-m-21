@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Manoj M!  
 
-<p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" align = "left"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,illustrator,photoshop&theme=dark" align = "center" />
-</p>  
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
 🚀 **Software Developer | Front-End Enthusiast | Graphic Designer**  
 
@@ -22,7 +21,6 @@ I have a strong background in **front-end development** (HTML, CSS, C) and a pas
 ---
 
 ### 🛠️ Tech Stack  
-**Languages & Tools:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,illustrator,photoshop&theme=dark" />
 </p>  
@@ -50,7 +48,6 @@ I have a strong background in **front-end development** (HTML, CSS, C) and a pas
 <p align="center">
   <a href="mailto:connectwithmanojm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manoj-m-1388a2269/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>  
 
 ---

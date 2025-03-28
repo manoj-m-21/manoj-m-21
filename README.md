@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Manoj M!  
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>  
 
 🚀 **Software Developer | Front-End Enthusiast | Graphic Designer**  
@@ -23,7 +23,7 @@ I have a strong background in **front-end development** (HTML, CSS, C) and a pas
 ### 🛠️ Tech Stack  
 **Languages & Tools:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,illustrator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,illustrator,photoshop&theme=dark" />
 </p>  
 
 ---

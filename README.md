@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Manoj M!  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&width=500&lines=Software+Developer+%7C+Front-End+Enthusiast;Passionate+about+Graphic+Design;Exploring+Cybersecurity+%26+Ethical+Hacking" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
 </p>  
 
 🚀 **Software Developer | Front-End Enthusiast | Graphic Designer**  
